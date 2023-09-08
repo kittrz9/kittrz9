@@ -4,5 +4,4 @@
 // nothing valued is here.
 // What is here was dangerous and repulsive to us.
 // This place is best shunned and left uninhabited."
-// https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages#Message
 ```
